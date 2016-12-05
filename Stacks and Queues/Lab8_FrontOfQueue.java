@@ -1,7 +1,6 @@
 /*
  * What's at the front of the queue after performing the given insert and remove commands?
- * CONSTRAINTS: 1 <= commands <= 20
- *				1 <= length of string <= 20
+ * CONSTRAINTS: 	1 <= commands <= 20		1 <= length of string <= 20
 */
 
 import java.util.Scanner;
